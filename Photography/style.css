@@ -1,0 +1,162 @@
+.portfolio,
+.portfolio * {
+  box-sizing: border-box;
+}
+.portfolio {
+  background: #000000;
+  height: 5050px;
+  position: relative;
+  overflow: hidden;
+}
+.vector {
+  width: 43.39%;
+  height: 4.3%;
+  position: absolute;
+  right: 30.75%;
+  left: 25.86%;
+  bottom: 94.28%;
+  top: 1.43%;
+  overflow: visible;
+}
+.photography {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 130px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 94px;
+  width: 880px;
+}
+.img-0660 {
+  width: 665px;
+  height: 362px;
+  position: absolute;
+  left: -67px;
+  top: 386px;
+  object-fit: cover;
+}
+.photography-pages-to-jpg-0016 {
+  width: 428px;
+  height: 709px;
+  position: absolute;
+  left: 598px;
+  top: 386px;
+  object-fit: cover;
+}
+.photography-pages-to-jpg-0011 {
+  width: 619px;
+  height: 490px;
+  position: absolute;
+  left: -21px;
+  top: 748px;
+  object-fit: cover;
+}
+.photography-pages-to-jpg-0007 {
+  width: 536px;
+  height: 406px;
+  position: absolute;
+  left: 1026px;
+  top: 386px;
+  object-fit: cover;
+}
+.photography-pages-to-jpg-0021 {
+  width: 536px;
+  height: 686px;
+  position: absolute;
+  left: 1026px;
+  top: 792px;
+  object-fit: cover;
+}
+.img-0738 {
+  width: 619px;
+  height: 832px;
+  position: absolute;
+  left: -21px;
+  top: 1238px;
+  object-fit: cover;
+}
+.photography-pages-to-jpg-0013 {
+  width: 428px;
+  height: 608px;
+  position: absolute;
+  left: 598px;
+  top: 1095px;
+  object-fit: cover;
+}
+.img-0735 {
+  width: 1058px;
+  height: 546px;
+  position: absolute;
+  left: 598px;
+  top: 1703px;
+  object-fit: cover;
+}
+.photography-pages-to-jpg-0005 {
+  width: 536px;
+  height: 225px;
+  position: absolute;
+  left: 1026px;
+  top: 1478px;
+  object-fit: cover;
+}
+.photography-pages-to-jpg-0024 {
+  width: 846px;
+  height: 1144px;
+  position: absolute;
+  left: 716px;
+  top: 2249px;
+  object-fit: cover;
+}
+.photography-pages-to-jpg-0023 {
+  width: 743px;
+  height: 480px;
+  position: absolute;
+  left: -24px;
+  top: 2070px;
+  object-fit: cover;
+}
+.img-0716 {
+  width: 737px;
+  height: 1030px;
+  position: absolute;
+  left: -18px;
+  top: 2550px;
+  object-fit: cover;
+}
+.vector2 {
+  width: 7.67%;
+  height: 1.19%;
+  position: absolute;
+  right: 79.3%;
+  left: 13.03%;
+  bottom: 1.21%;
+  top: 97.6%;
+  transform: translate(-116px, 0px);
+  overflow: visible;
+}
+.photography-pages-to-jpg-0002 {
+  width: 806px;
+  height: 517px;
+  position: absolute;
+  left: 706px;
+  top: 3393px;
+  object-fit: cover;
+}
+.img-0784 {
+  width: 728px;
+  height: 1063px;
+  position: absolute;
+  left: 0px;
+  top: 3572px;
+  object-fit: cover;
+}
+.photography-pages-to-jpg-0019 {
+  width: 793px;
+  height: 1163px;
+  position: absolute;
+  left: 719px;
+  top: 3887px;
+  object-fit: cover;
+}
