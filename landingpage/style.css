@@ -1,0 +1,145 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #000000;
+  height: 982px;
+  position: relative;
+  overflow: hidden;
+}
+.vector {
+  width: 31.28%;
+  height: 19.45%;
+  position: absolute;
+  right: 18.32%;
+  left: 50.4%;
+  bottom: 45.21%;
+  top: 35.34%;
+  overflow: visible;
+}
+.khushii-mehta {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 130px;
+  font-weight: 400;
+  position: absolute;
+  left: 282px;
+  top: 379px;
+}
+.about-me {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AlumniSansPinstripe-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 335px;
+  top: 535px;
+}
+.div {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AlumniSansPinstripe-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 545px;
+  top: 537px;
+}
+.div2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AlumniSansPinstripe-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 820px;
+  top: 536px;
+}
+.my-portfolio {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AlumniSansPinstripe-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 574px;
+  top: 536px;
+}
+.contact-me {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AlumniSansPinstripe-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 840px;
+  top: 534px;
+}
+.group {
+  width: 3.35%;
+  height: 4.99%;
+  position: absolute;
+  right: 27.36%;
+  left: 76.37%;
+  bottom: 38.49%;
+  top: 56.55%;
+  transform: translate(-23.66px, 0px);
+  overflow: visible;
+}
+.group2 {
+  width: 15.43%;
+  height: 28.74%;
+  position: absolute;
+  right: 74.02%;
+  left: 15.54%;
+  bottom: 7.48%;
+  top: 65.78%;
+  transform: translate(0px, -116.3px);
+  overflow: visible;
+}
+.vector2 {
+  width: 11.11%;
+  height: 16.29%;
+  position: absolute;
+  right: 54.17%;
+  left: 34.72%;
+  bottom: 12.32%;
+  top: 71.38%;
+  overflow: visible;
+}
+.vector3 {
+  width: 2.98%;
+  height: 5.38%;
+  position: absolute;
+  right: 19.42%;
+  left: 77.6%;
+  bottom: 64.27%;
+  top: 30.35%;
+  transform: translate(-0.04px, 0.03px);
+  overflow: visible;
+}
+.vector4 {
+  width: 4.73%;
+  height: 6.84%;
+  position: absolute;
+  right: 13.94%;
+  left: 81.33%;
+  bottom: 66.78%;
+  top: 26.37%;
+  transform: translate(-3.96px, 3.28px);
+  overflow: visible;
+}
+.vector5 {
+  width: 4.5%;
+  height: 7.43%;
+  position: absolute;
+  right: 78.51%;
+  left: 18%;
+  bottom: 52.68%;
+  top: 36.95%;
+  transform: translate(6.18px, -9.78px);
+  overflow: visible;
+}
