@@ -1,0 +1,112 @@
+.contact-me,
+.contact-me * {
+  box-sizing: border-box;
+}
+.contact-me {
+  background: #000000;
+  height: 982px;
+  position: relative;
+  overflow: hidden;
+}
+._039 {
+  opacity: 0.5;
+  width: 506px;
+  height: 351px;
+  position: absolute;
+  left: 1006px;
+  top: 682px;
+  overflow: visible;
+}
+.vector {
+  width: 31.28%;
+  height: 19.45%;
+  position: absolute;
+  right: 50.33%;
+  left: 18.39%;
+  bottom: 71.69%;
+  top: 8.86%;
+  overflow: visible;
+}
+.contact-me2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 130px;
+  font-weight: 400;
+  position: absolute;
+  left: 315px;
+  top: 87px;
+}
+.name-khushii-mehta {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 473px;
+  top: 358px;
+  width: 546px;
+}
+.email-id-khushii-mehta-flame-edu-in {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 375px;
+  top: 412px;
+  width: 751px;
+}
+.phone-no-8108880074 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 375px;
+  top: 466px;
+  width: 751px;
+}
+.leave-a-message {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 380px;
+  top: 520px;
+  width: 751px;
+}
+.rectangle-4158 {
+  background: #d9d9d9;
+  width: 671px;
+  height: 222px;
+  position: absolute;
+  left: 420px;
+  top: 596px;
+}
+.vector2 {
+  width: 7.67%;
+  height: 6.11%;
+  position: absolute;
+  right: 80.69%;
+  left: 11.64%;
+  bottom: 5.19%;
+  top: 88.7%;
+  transform: translate(-116px, 0px);
+  overflow: visible;
+}
+.vector3 {
+  width: 6.22%;
+  height: 6.31%;
+  position: absolute;
+  right: 22.95%;
+  left: 70.83%;
+  bottom: 84.83%;
+  top: 8.86%;
+  overflow: visible;
+}
