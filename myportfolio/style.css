@@ -1,0 +1,122 @@
+.portfolio,
+.portfolio * {
+  box-sizing: border-box;
+}
+.portfolio {
+  background: #000000;
+  height: 1620px;
+  position: relative;
+  overflow: hidden;
+}
+.vector {
+  width: 41.4%;
+  height: 7.71%;
+  position: absolute;
+  right: 44.78%;
+  left: 13.82%;
+  bottom: 86.92%;
+  top: 5.37%;
+  overflow: visible;
+}
+.my-portfolio {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 130px;
+  font-weight: 400;
+  position: absolute;
+  left: 51px;
+  top: 69px;
+}
+.vector2 {
+  width: 8.6%;
+  height: 3.58%;
+  position: absolute;
+  right: 79.43%;
+  left: 11.97%;
+  bottom: 3.15%;
+  top: 93.27%;
+  transform: translate(-130px, 0px);
+  overflow: visible;
+}
+.interactive-solar-system {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  left: 291px;
+  top: 761px;
+  width: 319px;
+}
+.font-pairing-website {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  left: 941px;
+  top: 761px;
+  width: 320px;
+}
+.screenshot-2024-11-14-at-8-20-42-am-1 {
+  width: 540px;
+  height: 384px;
+  position: absolute;
+  left: 181px;
+  top: 354px;
+  object-fit: cover;
+}
+._020 {
+  width: 123px;
+  height: 184px;
+  position: absolute;
+  left: 616.93px;
+  top: 557px;
+  transform: translate(-43.05px, 0px);
+  overflow: visible;
+}
+.dall-e-2024-11-14-08-30-17-a-visually-appealing-collage-of-various-fonts-coming-together-each-font-style-unique-and-distinct-ranging-from-bold-italic-serif-sans-serif-curs-1 {
+  width: 534px;
+  height: 344px;
+  position: absolute;
+  left: 796px;
+  top: 372px;
+  object-fit: cover;
+}
+.group-49 {
+  height: auto;
+  position: absolute;
+  left: 1189px;
+  top: 263px;
+  overflow: visible;
+}
+.photography {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  left: 425px;
+  top: 1391px;
+  width: 662px;
+}
+.whats-app-image-2024-01-10-at-13-32-18-1 {
+  width: 370px;
+  height: 391px;
+  position: absolute;
+  left: 571px;
+  top: 977px;
+  object-fit: cover;
+}
+._050 {
+  width: 262px;
+  height: 320px;
+  position: absolute;
+  left: 888px;
+  top: 1231px;
+  overflow: visible;
+}
